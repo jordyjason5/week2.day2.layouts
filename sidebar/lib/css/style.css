@@ -17,5 +17,7 @@ body{
 }
 
 .scrolling_content{
-
+    text-align: center;
+    display:flex;
+    flex-direction: column;
 }
